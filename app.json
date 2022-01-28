@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "website": "https://github.com/SAZUKI-SAMSUNG/EvaMaria",
+    "repository": "https://github.com/SAZUKI-SAMSUNG/EvaMaria",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
